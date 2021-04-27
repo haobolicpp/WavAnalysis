@@ -1,2 +1,1 @@
-# -linux-learn
-嵌入式linux学习记录
+音频信号分析
